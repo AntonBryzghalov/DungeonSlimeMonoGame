@@ -1,0 +1,1 @@
+dotnet build ./Game.Android/DungeonSlimeAndroid.csproj -c Debug
